@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "todo-app-backend",
+  "builds": [
+    {
+      "src": "requirements.txt",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/app/$1"
+    }
+  ]
+}
