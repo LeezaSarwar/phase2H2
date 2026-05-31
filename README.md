@@ -2,7 +2,7 @@
 title: Todo API
 emoji: ✅
 colorFrom: blue
-colorTo: purple
+colorTo: purple 
 sdk: docker
 pinned: false.
 ---
