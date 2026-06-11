@@ -18,7 +18,7 @@ FastAPI backend for the Todo application
 - `GET /health` - Check API health status
 
 ### Authentication
-- `POST /auth/register` - Register new user
+- `POST /auth/register` - Register new user 
 - `POST /auth/login` - Login user
 
 ### Tasks
