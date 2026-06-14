@@ -12,7 +12,7 @@ pinned: false
 FastAPI backend for the Todo application
 
 
-## API Endpoints
+## API Endpoints 
 
 ### Health Check
 - `GET /health` - Check API health status
